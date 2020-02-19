@@ -1,0 +1,135 @@
+body{
+    font-family: 'Raleway', sans-serif;    
+    font-size: 20px;
+}
+.all{
+    width: 100%;
+  }
+.headpart{
+    width: 100%;
+    display: flex;
+    margin-bottom: 50px;
+    justify-content: center;
+}
+.features{
+    margin-left: auto;
+    margin-right: 20px;
+}
+.team{
+    margin-right: 20px;
+}
+.signin{
+    margin-right: 20px;;
+}
+.main{
+    margin-bottom: 5px;
+    text-align: left;
+}
+.mid-riff{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    font-size: 25px;
+    margin-bottom: 100px;
+    padding-left: 60px;
+}
+.low-riff{
+    width: 100%;
+    background-color: hsl(240, 75%, 98%);
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 60px;
+}
+.big-1{
+    font-size: 16px;
+    width: 550px;
+    height: 400px;
+    margin-left: 280px;
+}
+
+.big-2{
+    margin-left: 70px;
+    font-size: 16px;
+    width: 550px;
+    height: 400px;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+footer-2{
+    width: 100%;
+    display: flex;
+    background-color: hsl(268, 42%, 56%);
+    padding-left: 60px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.started{
+    margin-top: 50px;
+    margin-left: 150px;
+}
+.middle{
+    font-size: 30px;
+}
+.low h2{
+    font-size: 42px;
+}
+.low p{
+    font-size: 20px;
+}
+.middle p{
+    font-size: 20px;
+}
+.parent{
+    width: 100%;
+    padding: 50px;
+    display: flex;
+    flex-direction: row;
+    background-color: hsl(243, 87%, 12%);
+    color: white;
+}
+.parent li{
+    list-style-type: none;
+}
+.column-a ul{
+    margin-right: 100px;
+}
+.space{
+    width: 280px;
+    height: 35px;
+    padding-left: 10px;
+    text-shadow: aliceblue;
+    font-family: 'Raleway', sans-serif;    
+
+}
+.spaces{
+    width: 160px;
+    height: 40px;
+    background-color: rgb(39, 39, 238);
+    color: white;
+    border-radius: 2%;
+    font-family: 'Raleway', sans-serif;
+    border: none;
+}
+.second{
+    width: 500px;
+    height: 35px;
+    padding-left: 10px;
+    text-shadow: aliceblue;
+    font-family: 'Raleway', sans-serif;    
+}
+.seconds{
+    width: 160px;
+    height: 40px;
+    background-color: rgb(39, 39, 238);
+    color: white;
+    border-radius: 2%;
+    font-family: 'Raleway', sans-serif;
+    border: none;
+}
+.box{
+    background-color: white;
+    margin-right: none;
+    padding: 25px;
+}
